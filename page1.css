@@ -15,3 +15,8 @@
   transform: translateX(30px);
   transition: 3s;
 }
+.reveal-card1{
+  opacity: 1;
+  transform: translateX(30px);
+  transition: 3s;
+}
